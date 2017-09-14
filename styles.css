@@ -21,6 +21,7 @@ html, body {
 }
 
 nav .header-nav-group {
+  float: right;
   padding-top: 12px;
 }
 
